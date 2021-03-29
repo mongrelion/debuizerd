@@ -50,6 +50,9 @@ params:
   navbar:
   - title: Lieren
     sublinks:
+    - title: Aanmelden
+      url: /lieren/aanmelden
+
     - title: Schema
       url: /lieren/schema
 
@@ -62,14 +65,14 @@ params:
   - title: Agenda
     url: /agenda
 
-  - title: BuizerdBokaal
+  - title: Bokaal
     url: /bokaal
 
   - title: Over Ons
     url: /over-ons
 
   - title: Aanmelden
-    url: https://docs.google.com/forms/d/e/1FAIpQLSeOL9E8LhsgO8pyYyxmmkPPhQx2EMSqrfzFvnvcLhGdjjmiGA/viewform
+    url: /lieren/aanmelden
     button: true
 
   section1:
